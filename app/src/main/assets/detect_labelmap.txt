@@ -1,0 +1,22 @@
+???
+Người đi bộ
+Dừng
+Đường ưu tiên
+give road
+children
+Cấm dừng
+Cấm đậu
+Đường cấm
+Cấm đi ngược chiều
+dont overtake
+speed limit 5
+speed limit 10
+speed limit 20
+speed limit 30
+Tối đa 40
+Tối đa 50
+Tối đa 60
+Tối đa 70
+Tối đa 80
+speed limit 90
+speed limit 100
